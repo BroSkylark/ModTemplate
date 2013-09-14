@@ -1,0 +1,20 @@
+[
+{
+  "modid": "template",
+  "name": "Maod Template",
+  "description": "Exactly what it says on the tin.",
+  "version": "a0.0",
+  "url": "github.com/BroSkylark/ModTemplate",
+  "updateUrl": "",
+  "authorList": [
+    "BroSkylark"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
